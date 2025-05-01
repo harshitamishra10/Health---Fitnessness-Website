@@ -22,6 +22,7 @@ nav ul{
     height : 89px;
     background-color :rgb(33, 160, 24);
     color : white;
+
     
     }
 .brand img{
@@ -90,8 +91,12 @@ h1 {
 }
 
 .content {
-    margin-top: 50px;
-    padding: 20px;
+    
+    padding: 40px;
+    filter: 0px;
+    margin: 50px auto;
+    width: 50%;
+    border-radius: 25px;
 }
 body {
     margin: 0;
