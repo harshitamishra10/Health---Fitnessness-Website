@@ -22,10 +22,18 @@ body {
   .content {
     padding: 40px;
     background-image: url("image3.jpeg");
+<<<<<<< HEAD
     margin: 5% auto;
     width: 50%;
     border-radius: 25px;
     border: solid rgb(36, 3, 3);
+=======
+    backdrop-filter: 5px;
+    margin: 50px auto;
+    width: 50%;
+    border-radius: 25px;
+    border: solid black;
+>>>>>>> aa23bb1de4147358bdb317fdf62e3100e87e16d8
   }
   h2 {
     font-size: 36px;
@@ -47,8 +55,13 @@ body {
     background-color: rgba(64, 121, 7, 0.7);
     font-size: 18px;
     text-align: center;
+<<<<<<< HEAD
   }
   nav{
+=======
+}
+nav{
+>>>>>>> aa23bb1de4147358bdb317fdf62e3100e87e16d8
     font-family: "Ubuntu Mono", monospace;
 }
 nav ul li{
@@ -75,6 +88,7 @@ nav ul{
   
 font-size : 1.3rem;
 }
+<<<<<<< HEAD
 
 
 .yoga{
@@ -103,3 +117,5 @@ a {
   text-decoration: underline;
 
  } 
+=======
+>>>>>>> aa23bb1de4147358bdb317fdf62e3100e87e16d8
